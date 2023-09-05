@@ -2,7 +2,7 @@
 
 This project was born from applying what was learned from the Tablue Fundamentals courses at DataCamp.
 
-You can visit it at Tablue Public in the following [link](https://public.tableau.com/app/profile/maxilafo/viz/Databel-CustomerChurn_16938305753280/Story)
+You can visit the interactive Story published on Tableau Public at the following [link](https://public.tableau.com/app/profile/maxilafo/viz/Databel-CustomerChurn_16938305753280/Story)
 
 <p align="center">
 <a href="https://ibb.co/GQbcxJQ"><img src="https://i.ibb.co/XxvS24x/Story1.png" alt="Story1" border="0"></a>
